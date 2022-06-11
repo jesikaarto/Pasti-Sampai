@@ -48,4 +48,9 @@ apabila id benar maka akan keluar informasi mengenai status barang tersebut
 ---
 ### Demo
 ![WhatsApp Image 2022-06-11 at 16 25 20](https://user-images.githubusercontent.com/107292960/173191759-88701482-d563-41ca-907c-6952fa66ea06.jpeg)
+
 ---
+
+### Referensi
+https://youtu.be/HzNOkj86D8I
+https://www.petanikode.com/python-mysql/
